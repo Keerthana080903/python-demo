@@ -1,0 +1,5 @@
+x=("keerthana",22)
+y=iter(x)
+print(next(y))
+print(next(y))
+print(next(y))

@@ -1,0 +1,5 @@
+x=input("name")
+y=input("age")
+a=iter(x,y)
+print(next(a))
+print(next(a))
